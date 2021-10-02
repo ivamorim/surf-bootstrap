@@ -1,0 +1,70 @@
+* {
+  font-family: "Alice", serif;
+}
+h5 {
+  font-size: 14px;
+  color: #82a9ab;
+}
+h1 {
+  font-size: 120px;
+  font-weight: normal;
+  position: relative;
+  top: 350px;
+  text-align: left;
+  margin-left: 100px;
+}
+
+.bg-pro {
+  background-color: #a8dadc;
+}
+
+.bg-user {
+  background-color: #1d3557;
+}
+
+.nav-link {
+  color: #fff;
+}
+.nav-link:hover {
+  color: #a8dadc;
+}
+
+.nav-link:active {
+  color: #a8dadc;
+}
+/* ul {
+  margin-left: auto;
+} */
+
+.form-user {
+  top: 251px;
+  margin-left: auto;
+  width: 555px;
+  height: 58px;
+}
+#basic-addon1 {
+  width: 174px;
+  height: 58px;
+  color: #ffffff;
+  background-color: #e84f5a;
+}
+
+.introdution {
+  top: 82px;
+  left: 0px;
+  width: 100%;
+  height: 600px;
+  background: url(../img/bg-1.png) no-repeat;
+  background-size: cover;
+}
+.introdution h1 {
+  color: #fff;
+}
+
+/*  seção personalize  */
+
+#personalize {
+  width: 672px;
+  height: 890px;
+  margin-top: 50px;
+}
