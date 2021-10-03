@@ -32,6 +32,10 @@ h1 {
 .nav-link:active {
   color: #a8dadc;
 }
+
+.blue-surf {
+  color: #95c1c3;
+}
 /* ul {
   margin-left: auto;
 } */
