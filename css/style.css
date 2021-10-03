@@ -1,3 +1,5 @@
+/* style Geral */
+
 * {
   font-family: "Alice", serif;
 }
@@ -14,10 +16,13 @@ h1 {
   margin-left: 100px;
 }
 
+/* Nav primaria */
+
 .bg-pro {
   background-color: #a8dadc;
 }
 
+/* Navbar */
 .bg-user {
   background-color: #1d3557;
 }
@@ -33,12 +38,7 @@ h1 {
   color: #a8dadc;
 }
 
-.blue-surf {
-  color: #95c1c3;
-}
-/* ul {
-  margin-left: auto;
-} */
+/* Introdução */
 
 .form-user {
   top: 251px;
@@ -67,8 +67,35 @@ h1 {
 
 /*  seção personalize  */
 
-#personalize {
+.blue-surf {
+  color: #95c1c3;
+}
+
+#person-img {
   width: 672px;
   height: 890px;
+  margin-top: 50px;
+}
+
+#person-text {
+  padding: 20px;
+  border-bottom: 1px solid #1d3557;
+}
+
+.icon-bord {
+  margin-top: 5px;
+  border-bottom: 1px solid #1d3557;
+  padding: 20px 20px 20px 40px;
+}
+
+.text-info2 p {
+  padding: 40px auto;
+}
+
+#btn-person {
+  font-size: 36px;
+  width: 900px;
+  height: 85px;
+  color: #1d3557;
   margin-top: 50px;
 }
