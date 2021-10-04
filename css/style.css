@@ -18,7 +18,7 @@ h1 {
 
 /* Nav primaria */
 
-.bg-pro {
+#bg-pro {
   background-color: #a8dadc;
 }
 
@@ -194,12 +194,4 @@ h1 {
 
 .footer_redes ul li a:hover {
   border-color: #013046;
-}
-
-.copy {
-  width: 100%;
-  background: #013046;
-  padding: 20px 0;
-  color: #fff;
-  text-align: center;
 }
